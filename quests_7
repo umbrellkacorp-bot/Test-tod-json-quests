@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "description": [
+      "{RandPlayer} - Рандомное имя игрока",
+      "{RandPlayers} - Несколько рандомных игроков",
+      "{RandAutomatItem} - Рандомный предмет из автомата (указать в любой части строки)"
+    ]
+  },
+  "truth": [
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_7][T][C0]"
+      },
+      "questions": [
+        {
+          "ru": "[JSON_7][T][C0] Какое твое самое несбывшееся желание из детства?"
+        }
+      ]
+    },
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_7][T][C1]"
+      },
+      "questions": [
+        {
+          "ru": "[JSON_7][T][C1] За что тебе стыдно перед {RandPlayer}?"
+        }
+      ]
+    }
+  ],
+  "dare": [
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_7][D][C0]"
+      },
+      "questions": [
+        {
+          "ru": "[JSON_7][D][C0] {RandAutomatItem} сделай вид, что это твой телефон, и поговори с ним 30 секунд"
+        }
+      ]
+    },
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_7][D][C1]"
+      },
+      "questions": [
+        {
+          "ru": "[JSON_7][D][C1] Поменяйся местами с {RandPlayer} на один раунд"
+        }
+      ]
+    }
+  ]
+}
