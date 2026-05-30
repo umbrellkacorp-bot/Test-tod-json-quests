@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "description": [
+      "{RandPlayer} - Рандомное имя игрока",
+      "{RandPlayers} - Несколько рандомных игроков",
+      "{RandAutomatItem} - Рандомный предмет из автомата (указать в любой части строки)"
+    ]
+  },
+  "truth": [
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_9][T][C0]"
+      },
+      "questions": [
+        {
+          "ru": "[JSON_9][T][C0] Если бы тебя забанили в VRChat навсегда, чем бы ты занялся(лась)?"
+        }
+      ]
+    },
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_9][T][C1]"
+      },
+      "questions": [
+        {
+          "ru": "[JSON_9][T][C1] Какая твоя черта характера бесит {RandPlayers} больше всего?"
+        }
+      ]
+    }
+  ],
+  "dare": [
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_9][D][C0]"
+      },
+      "questions": [
+        {
+          "ru": "[JSON_9][D][C0] {RandAutomatItem} спрячь этот предмет где-нибудь в комнате, чтобы {RandPlayer} искал(а)"
+        }
+      ]
+    },
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_9][D][C1]"
+      },
+      "questions": [
+        {
+          "ru": "[JSON_9][D][C1] Скажи {RandPlayer} комплимент голосом робота"
+        }
+      ]
+    }
+  ]
+}
