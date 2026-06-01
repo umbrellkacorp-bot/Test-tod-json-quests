@@ -1,5 +1,8 @@
 {
   "meta": {
+    "internal": {
+      "url": ""
+    },
     "description": [
       "{RandPlayer} - Рандомное имя игрока",
       "{RandPlayers} - Несколько рандомных игроков",
