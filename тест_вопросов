@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "internal": {
+      "url": ""
+    },
+    "description": [
+      "{RandPlayer} - Рандомное имя игрока",
+      "{RandPlayers} - Несколько рандомных игроков",
+      "{RandAutomatItem} - Рандомный предмет из автомата (указать в любой части строки)"
+    ]
+  },
+  "truth": [
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_1][T][C0]"
+      },
+      "questions": [
+        {
+          "ru": "[JSON_1][T][C0] Какую тайну ты никогда не рассказывал {RandPlayer}?"
+        }
+      ]
+    },
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_1][T][C1]"
+      },
+      "questions": [
+        {
+          "ru": "[JSON_1][T][C1] Твоя самая глупая покупка за последний месяц"
+        }
+      ]
+    }
+  ],
+  "dare": [
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_1][D][C0]"
+      },
+      "questions": [
+        {
+          "ru": "[JSON_1][D][C0] {RandAutomatItem} покажи этот предмет всем и скажи, что он тебя защищает"
+        }
+      ]
+    },
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_1][D][C1]"
+      },
+      "questions": [
+        {
+          "ru": "[JSON_1][D][C1] Изобрази любого игрока из {RandPlayers}, пока остальные не угадают"
+        }
+      ]
+    }
+  ]
+}
