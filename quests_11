@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "internal": {
+      "url": ""
+    },
+    "description": [
+      "{RandPlayer} - Random player name",
+      "{RandPlayers} - Several random players",
+      "{RandAutomatItem} - Random item from the vending machine (specify anywhere in the line)"
+    ]
+  },
+  "truth": [
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_11][T][C0]",
+        "en": "Category [JSON_11][T][C0]",
+        "ja": "カテゴリ [JSON_11][T][C0]",
+        "cn": "类别 [JSON_11][T][C0]",
+        "de": "Kategorie [JSON_11][T][C0]"
+      },
+      "questions": [
+        {
+          "ru": "[JSON_11][T][C0] Какую тайну ты никогда не рассказывал {RandPlayer}?",
+          "en": "[JSON_11][T][C0] What secret have you never told {RandPlayer}?",
+          "ja": "[JSON_11][T][C0] {RandPlayer}に話したことのない秘密は何ですか？",
+          "cn": "[JSON_11][T][C0] 你从未告诉过{RandPlayer}的秘密是什么？",
+          "de": "[JSON_11][T][C0] Welches Geheimnis hast du {RandPlayer} nie erzählt?"
+        }
+      ]
+    },
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_11][T][C1]",
+        "en": "Category [JSON_11][T][C1]",
+        "ja": "カテゴリ [JSON_11][T][C1]",
+        "cn": "类别 [JSON_11][T][C1]",
+        "de": "Kategorie [JSON_11][T][C1]"
+      },
+      "questions": [
+        {
+          "ru": "[JSON_11][T][C1] Твоя самая глупая покупка за последний месяц",
+          "en": "[JSON_11][T][C1] Your stupidest purchase in the last month",
+          "ja": "[JSON_11][T][C1] 先月で一番バカな買い物",
+          "cn": "[JSON_11][T][C1] 你上个月最蠢的购买",
+          "de": "[JSON_11][T][C1] Dein dümmster Kauf im letzten Monat"
+        }
+      ]
+    }
+  ],
+  "dare": [
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_11][D][C0]",
+        "en": "Category [JSON_11][D][C0]",
+        "ja": "カテゴリ [JSON_11][D][C0]",
+        "cn": "类别 [JSON_11][D][C0]",
+        "de": "Kategorie [JSON_11][D][C0]"
+      },
+      "questions": [
+        {
+          "ru": "[JSON_11][D][C0] {RandAutomatItem} покажи этот предмет всем и скажи, что он тебя защищает",
+          "en": "[JSON_11][D][C0] {RandAutomatItem} show this item to everyone and say it protects you",
+          "ja": "[JSON_11][D][C0] {RandAutomatItem} このアイテムを皆に見せて、「これが私を守っている」と言ってください",
+          "cn": "[JSON_11][D][C0] {RandAutomatItem} 把这个物品给大家看，并说它保护你",
+          "de": "[JSON_11][D][C0] {RandAutomatItem} zeige diesen Gegenstand allen und sage, dass er dich beschützt"
+        }
+      ]
+    },
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_11][D][C1]",
+        "en": "Category [JSON_11][D][C1]",
+        "ja": "カテゴリ [JSON_11][D][C1]",
+        "cn": "类别 [JSON_11][D][C1]",
+        "de": "Kategorie [JSON_11][D][C1]"
+      },
+      "questions": [
+        {
+          "ru": "[JSON_11][D][C1] Изобрази любого игрока из {RandPlayers}, пока остальные не угадают",
+          "en": "[JSON_11][D][C1] Imitate any player from {RandPlayers} until the others guess who it is",
+          "ja": "[JSON_11][D][C1] {RandPlayers} の中から一人のプレイヤーを、他の人が当てるまで真似し続けてください",
+          "cn": "[JSON_11][D][C1] 模仿{RandPlayers}中的任意一名玩家，直到其他人猜出来",
+          "de": "[JSON_11][D][C1] Ahme einen beliebigen Spieler aus {RandPlayers} nach, bis die anderen erraten haben, wer es ist"
+        }
+      ]
+    }
+  ]
+}
