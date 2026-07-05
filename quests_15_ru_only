@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "internal": {
+      "url": ""
+    },
+    "description": [
+      "{RandPlayer} - Random player name",
+      "{RandPlayers} - Several random players",
+      "{RandAutomatItem} - Random item from the vending machine (specify anywhere in the line)"
+    ]
+  },
+  "truth": [
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_15][T][C0]",
+        "en": "",
+        "ja": "",
+        "cn": "",
+        "de": ""
+      },
+      "questions": [
+        {
+          "ru": "[JSON_15][T][C0] Какую тайну ты никогда не рассказывал {RandPlayer}?",
+          "en": "",
+          "ja": "",
+          "cn": "",
+          "de": ""
+        }
+      ]
+    },
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_15][T][C1]",
+        "en": "",
+        "ja": "",
+        "cn": "",
+        "de": ""
+      },
+      "questions": [
+        {
+          "ru": "[JSON_15][T][C1] Твоя самая глупая покупка за последний месяц",
+          "en": "",
+          "ja": "",
+          "cn": "",
+          "de": ""
+        }
+      ]
+    }
+  ],
+  "dare": [
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_15][D][C0]",
+        "en": "",
+        "ja": "",
+        "cn": "",
+        "de": ""
+      },
+      "questions": [
+        {
+          "ru": "[JSON_15][D][C0] {RandAutomatItem} покажи этот предмет всем и скажи, что он тебя защищает",
+          "en": "",
+          "ja": "",
+          "cn": "",
+          "de": ""
+        }
+      ]
+    },
+    {
+      "CategoryName": {
+        "ru": "Категория [JSON_15][D][C1]",
+        "en": "",
+        "ja": "",
+        "cn": "",
+        "de": ""
+      },
+      "questions": [
+        {
+          "ru": "[JSON_15][D][C1] Изобрази любого игрока из {RandPlayers}, пока остальные не угадают",
+          "en": "",
+          "ja": "",
+          "cn": "",
+          "de": ""
+        }
+      ]
+    }
+  ]
+}
