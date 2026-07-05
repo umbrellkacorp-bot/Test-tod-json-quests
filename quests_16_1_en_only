@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "internal": {
+      "url": ""
+    },
+    "description": [
+      "{RandPlayer} - Random player name",
+      "{RandPlayers} - Several random players",
+      "{RandAutomatItem} - Random item from the vending machine (specify anywhere in the line)"
+    ]
+  },
+  "truth": [
+    {
+      "CategoryName": {
+        "ru": "",
+        "en": "Category [JSON_16][T][C0]",
+        "ja": "",
+        "cn": "",
+        "de": ""
+      },
+      "questions": [
+        {
+          "ru": "",
+          "en": "[JSON_16][T][C0] What secret have you never told {RandPlayer}?",
+          "ja": "",
+          "cn": "",
+          "de": ""
+        }
+      ]
+    },
+    {
+      "CategoryName": {
+        "ru": "",
+        "en": "Category [JSON_16][T][C1]",
+        "ja": "",
+        "cn": "",
+        "de": ""
+      },
+      "questions": [
+        {
+          "ru": "",
+          "en": "[JSON_16][T][C1] Your stupidest purchase in the last month",
+          "ja": "",
+          "cn": "",
+          "de": ""
+        }
+      ]
+    }
+  ],
+  "dare": [
+    {
+      "CategoryName": {
+        "ru": "",
+        "en": "Category [JSON_16][D][C0]",
+        "ja": "",
+        "cn": "",
+        "de": ""
+      },
+      "questions": [
+        {
+          "ru": "",
+          "en": "[JSON_16][D][C0] {RandAutomatItem} show this item to everyone and say it protects you",
+          "ja": "",
+          "cn": "",
+          "de": ""
+        }
+      ]
+    },
+    {
+      "CategoryName": {
+        "ru": "",
+        "en": "Category [JSON_16][D][C1]",
+        "ja": "",
+        "cn": "",
+        "de": ""
+      },
+      "questions": [
+        {
+          "ru": "",
+          "en": "[JSON_16][D][C1] Imitate any player from {RandPlayers} until the others guess who it is",
+          "ja": "",
+          "cn": "",
+          "de": ""
+        }
+      ]
+    }
+  ]
+}
