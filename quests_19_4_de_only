@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "internal": {
+      "url": ""
+    },
+    "description": [
+      "{RandPlayer} - Random player name",
+      "{RandPlayers} - Several random players",
+      "{RandAutomatItem} - Random item from the vending machine (specify anywhere in the line)"
+    ]
+  },
+  "truth": [
+    {
+      "CategoryName": {
+        "ru": "",
+        "en": "",
+        "ja": "",
+        "cn": "",
+        "de": "Kategorie [JSON_19][T][C0]"
+      },
+      "questions": [
+        {
+          "ru": "",
+          "en": "",
+          "ja": "",
+          "cn": "",
+          "de": "[JSON_19][T][C0] Welches Geheimnis hast du {RandPlayer} nie erzählt?"
+        }
+      ]
+    },
+    {
+      "CategoryName": {
+        "ru": "",
+        "en": "",
+        "ja": "",
+        "cn": "",
+        "de": "Kategorie [JSON_19][T][C1]"
+      },
+      "questions": [
+        {
+          "ru": "",
+          "en": "",
+          "ja": "",
+          "cn": "",
+          "de": "[JSON_19][T][C1] Dein dümmster Kauf im letzten Monat"
+        }
+      ]
+    }
+  ],
+  "dare": [
+    {
+      "CategoryName": {
+        "ru": "",
+        "en": "",
+        "ja": "",
+        "cn": "",
+        "de": "Kategorie [JSON_19][D][C0]"
+      },
+      "questions": [
+        {
+          "ru": "",
+          "en": "",
+          "ja": "",
+          "cn": "",
+          "de": "[JSON_19][D][C0] {RandAutomatItem} zeige diesen Gegenstand allen und sage, dass er dich beschützt"
+        }
+      ]
+    },
+    {
+      "CategoryName": {
+        "ru": "",
+        "en": "",
+        "ja": "",
+        "cn": "",
+        "de": "Kategorie [JSON_19][D][C1]"
+      },
+      "questions": [
+        {
+          "ru": "",
+          "en": "",
+          "ja": "",
+          "cn": "",
+          "de": "[JSON_19][D][C1] Ahme einen beliebigen Spieler aus {RandPlayers} nach, bis die anderen erraten haben, wer es ist"
+        }
+      ]
+    }
+  ]
+}
