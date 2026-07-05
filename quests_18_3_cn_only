@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "internal": {
+      "url": ""
+    },
+    "description": [
+      "{RandPlayer} - Random player name",
+      "{RandPlayers} - Several random players",
+      "{RandAutomatItem} - Random item from the vending machine (specify anywhere in the line)"
+    ]
+  },
+  "truth": [
+    {
+      "CategoryName": {
+        "ru": "",
+        "en": "",
+        "ja": "",
+        "cn": "类别 [JSON_18][T][C0]",
+        "de": ""
+      },
+      "questions": [
+        {
+          "ru": "",
+          "en": "",
+          "ja": "",
+          "cn": "[JSON_18][T][C0] 你从未告诉过{RandPlayer}的秘密是什么？",
+          "de": ""
+        }
+      ]
+    },
+    {
+      "CategoryName": {
+        "ru": "",
+        "en": "",
+        "ja": "",
+        "cn": "类别 [JSON_18][T][C1]",
+        "de": ""
+      },
+      "questions": [
+        {
+          "ru": "",
+          "en": "",
+          "ja": "",
+          "cn": "[JSON_18][T][C1] 你上个月最蠢的购买",
+          "de": ""
+        }
+      ]
+    }
+  ],
+  "dare": [
+    {
+      "CategoryName": {
+        "ru": "",
+        "en": "",
+        "ja": "",
+        "cn": "类别 [JSON_18][D][C0]",
+        "de": ""
+      },
+      "questions": [
+        {
+          "ru": "",
+          "en": "",
+          "ja": "",
+          "cn": "[JSON_18][D][C0] 把这个物品给大家看，并说它保护你",
+          "de": ""
+        }
+      ]
+    },
+    {
+      "CategoryName": {
+        "ru": "",
+        "en": "",
+        "ja": "",
+        "cn": "类别 [JSON_18][D][C1]",
+        "de": ""
+      },
+      "questions": [
+        {
+          "ru": "",
+          "en": "",
+          "ja": "",
+          "cn": "[JSON_18][D][C1] 模仿{RandPlayers}中的任意一名玩家，直到其他人猜出来",
+          "de": ""
+        }
+      ]
+    }
+  ]
+}
