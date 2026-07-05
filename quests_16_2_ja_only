@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "internal": {
+      "url": ""
+    },
+    "description": [
+      "{RandPlayer} - Random player name",
+      "{RandPlayers} - Several random players",
+      "{RandAutomatItem} - Random item from the vending machine (specify anywhere in the line)"
+    ]
+  },
+  "truth": [
+    {
+      "CategoryName": {
+        "ru": "",
+        "en": "",
+        "ja": "カテゴリ [JSON_17][T][C0]",
+        "cn": "",
+        "de": ""
+      },
+      "questions": [
+        {
+          "ru": "",
+          "en": "",
+          "ja": "[JSON_17][T][C0] {RandPlayer}に話したことのない秘密は何ですか？",
+          "cn": "",
+          "de": ""
+        }
+      ]
+    },
+    {
+      "CategoryName": {
+        "ru": "",
+        "en": "",
+        "ja": "カテゴリ [JSON_17][T][C1]",
+        "cn": "",
+        "de": ""
+      },
+      "questions": [
+        {
+          "ru": "",
+          "en": "",
+          "ja": "[JSON_17][T][C1] 先月で一番バカな買い物",
+          "cn": "",
+          "de": ""
+        }
+      ]
+    }
+  ],
+  "dare": [
+    {
+      "CategoryName": {
+        "ru": "",
+        "en": "",
+        "ja": "カテゴリ [JSON_17][D][C0]",
+        "cn": "",
+        "de": ""
+      },
+      "questions": [
+        {
+          "ru": "",
+          "en": "",
+          "ja": "[JSON_17][D][C0] {RandAutomatItem} このアイテムを皆に見せて、「これが私を守っている」と言ってください",
+          "cn": "",
+          "de": ""
+        }
+      ]
+    },
+    {
+      "CategoryName": {
+        "ru": "",
+        "en": "",
+        "ja": "カテゴリ [JSON_17][D][C1]",
+        "cn": "",
+        "de": ""
+      },
+      "questions": [
+        {
+          "ru": "",
+          "en": "",
+          "ja": "[JSON_17][D][C1] {RandPlayers} の中から一人のプレイヤーを、他の人が当てるまで真似し続けてください",
+          "cn": "",
+          "de": ""
+        }
+      ]
+    }
+  ]
+}
